@@ -42,29 +42,29 @@ This repository contains my Week 2 cybersecurity internship tasks and practical 
 
 The following screenshots provide visual evidence of my practical activities.
 
-### Practical Evidence 01
-![Evidence 01](./19212.png)
+## 📸 Practical Screenshots
 
-### Practical Evidence 02
-![Evidence 02](./19217.png)
+### 01. Cutl-I
+![Screenshot 1](./Cutl-I.png)
 
-### Practical Evidence 03
-![Evidence 03](./19041.jpg)
+### 02. Whois 1
+![Screenshot 2](./PXL_20261114_180514128.jpg)
 
-### Practical Evidence 04
-![Evidence 04](./19040.jpg)
+### 03. whois 2
+![Screenshot 3](./PXL_20261114_180623885.jpg)
 
-### Practical Evidence 05
-![Evidence 05](./19216.png)
+### 04. Practical Evidence
+![Screenshot 4](./SS1.png)
 
-### Practical Evidence 06
-![Evidence 06](./19215.png)
+### 05. DNSRecon
+![DNSRecon](./dnsrecon.png)
 
-### Practical Evidence 07
-![Evidence 07](./19210.png)
+### 06. WhatWeb
+![WhatWeb](./whatweb.png)
 
-### Practical Evidence 08
-![Evidence 08](./19074.jpg)
+### 07. Wafw00f
+![Wafw00f](./wsw00f.png)
+
 
 ## 📄 Penetration Testing Report
 
