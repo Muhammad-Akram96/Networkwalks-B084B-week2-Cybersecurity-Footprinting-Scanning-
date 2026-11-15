@@ -90,13 +90,8 @@ The following screenshots provide visual evidence of my practical activities.
 ### 07. Wafw00f
 ![Wafw00f](./wsw00f.png)
 
-### 08. Network Topology
-![Network Topology](./Network-Topology.png)
-### 9. Nmap (Network Scanning)
-Nmap was used to understand network scanning and identify information about network hosts.
-
-![Nmap](./nmap.png)
-## 📄 Penetration Testing Report
+### 08. Nmap – Network Scanning & Topology
+[View Nmap Network Topology (PDF)](./65012_Week_1-2.pdf)
 
 My detailed report includes:
 
