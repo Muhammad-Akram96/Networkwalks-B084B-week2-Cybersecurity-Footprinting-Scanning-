@@ -1,55 +1,98 @@
 
-# Networkwalks-B084B-week2-Cybersecurity-Footprinting-Scanning-
+# 🛡️ Cybersecurity Internship – Week 02
 
-Cybersecurity Footprinting and Network Scanning
+### Footprinting | Network Scanning | Penetration Testing
 
-## About
+<p align="center">
+  <b>Networkwalks Cybersecurity Internship</b>
+</p>
 
-This repository contains my Week 2 cybersecurity internship practical work at Networkwalks.
+---
 
-### Topics Covered
-- Footprinting
-- WHOIS
-- WhatWeb
-- Nslookup
-- DNSRecon
-- Wafw00f
-- Nmap
+## 📌 Project Overview
+
+This repository contains my Week 2 cybersecurity internship tasks and practical activities. During this week, I explored different footprinting and network scanning techniques and documented the observations in a penetration testing report.
+
+## 🎯 Topics Covered
+
+- Footprinting and Reconnaissance
+- Domain Information Gathering
+- DNS Enumeration
+- Website Technology Detection
+- HTTP Header Analysis
+- Web Application Firewall Detection
+- Network Discovery
 - Network Topology
-- Penetration Testing Report
-- 
-## Practical Screenshots
+- Penetration Testing Documentation
 
-### 1. Screenshot 1
-![Screenshot 1](19212.png)
+## 🧰 Tools Used
 
-### 2. Screenshot 2
-![Screenshot 2](19217.png)
+| Tool | Purpose |
+|---|---|
+| Kali Linux | Security testing environment |
+| WHOIS | Domain registration information |
+| WhatWeb | Website technology identification |
+| Nslookup | DNS lookup |
+| DNSRecon | DNS enumeration |
+| Curl | HTTP header analysis |
+| Wafw00f | WAF detection |
+| Nmap | Network scanning |
 
-### 3. Screenshot 3
-![Screenshot 3](19041.jpg)
+## 📸 Practical Screenshots
 
-### 4. Screenshot 4
-![Screenshot 4](19040.jpg)
+The following screenshots provide visual evidence of my practical activities.
 
-### 5. Screenshot 5
-![Screenshot 5](19216.png)
+### Practical Evidence 01
+![Evidence 01](./19212.png)
 
-### 6. Screenshot 6
-![Screenshot 6](19215.png)
+### Practical Evidence 02
+![Evidence 02](./19217.png)
 
-### 7. Screenshot 7
-![Screenshot 7](19210.png)
+### Practical Evidence 03
+![Evidence 03](./19041.jpg)
 
-### 8. Screenshot 8
-![Screenshot 8](19074.jpg)
+### Practical Evidence 04
+![Evidence 04](./19040.jpg)
 
-## Penetration Testing Report
+### Practical Evidence 05
+![Evidence 05](./19216.png)
 
-[View Penetration Testing Report](Cybersecurity_Footprinting_and_Network_Scanning_Report_Muhammad_Akram_B084.docx)
+### Practical Evidence 06
+![Evidence 06](./19215.png)
 
+### Practical Evidence 07
+![Evidence 07](./19210.png)
 
-## Submitted By
-Muhammad Akram
+### Practical Evidence 08
+![Evidence 08](./19074.jpg)
 
-Batch: B084
+## 📄 Penetration Testing Report
+
+My detailed report includes:
+
+- Activities Performed
+- Tools and Commands
+- Observations and Findings
+- Risk Analysis
+- Security Recommendations
+- Supporting Evidence
+
+📎 [View Penetration Testing Report](./Cybersecurity_Footprinting_and_Network_Scanning_Report_Muhammad_Akram_B084.docx)
+
+## 📚 Learning Outcomes
+
+Through these practical activities, I gained experience in domain reconnaissance, DNS enumeration, website technology identification, network discovery, and cybersecurity report writing.
+
+## ⚠️ Disclaimer
+
+All activities are intended for educational purposes and authorized security testing only.
+
+---
+
+## ✍️ Submitted By
+
+**Muhammad Akram**  
+Cybersecurity Intern | Networkwalks  
+Batch B084
+
+#CyberSecurity #Footprinting #NetworkScanning #PenetrationTesting #KaliLinux
