@@ -1,5 +1,5 @@
 
-# 🛡️ Cybersecurity Internship – Week 02
+# 🛡️ Cybersecurity – Week 02
 
 ### Footprinting | Network Scanning | Penetration Testing
 
