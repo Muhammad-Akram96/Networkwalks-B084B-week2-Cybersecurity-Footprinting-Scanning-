@@ -22,6 +22,7 @@ This repository contains my Week 2 cybersecurity internship tasks and practical 
 - HTTP Header Analysis
 - Web Application Firewall Detection
 - Network Discovery
+- Nmap Scanning with Zenmap
 - Network Topology
 - Penetration Testing Documentation
 
@@ -37,6 +38,30 @@ This repository contains my Week 2 cybersecurity internship tasks and practical 
 | Curl | HTTP header analysis |
 | Wafw00f | WAF detection |
 | Nmap | Network scanning |
+## 🔍 Nmap – Network Scanning Tasks
+
+### Task 1: Download and Install Zenmap
+Downloaded and installed Zenmap from its official website on Windows.
+
+### Task 2: Identify Local IP and LAN Subnet
+Identified the local IP address and LAN subnet.
+
+### Task 3: Discover Live Hosts
+Used network scanning to identify live hosts on the local subnet.
+
+### Task 4: Count Live Hosts
+Determined the total number of live hosts in the subnet.
+
+### Task 5: Identify Live Hosts' IP Addresses
+Observed the IP addresses of the discovered live hosts.
+
+### Task 6: Identify MAC Addresses
+Observed the MAC addresses of the discovered hosts.
+
+### Task 7: Network Topology
+Generated and saved the network topology in PDF format.
+
+📄 [View Network Topology PDF](./65012_Week_1-2.pdf)
 
 ## 📸 Practical Screenshots
 
@@ -65,6 +90,8 @@ The following screenshots provide visual evidence of my practical activities.
 ### 07. Wafw00f
 ![Wafw00f](./wsw00f.png)
 
+### 08. Network Topology
+![Network Topology](./Network-Topology.png)
 
 ## 📄 Penetration Testing Report
 
